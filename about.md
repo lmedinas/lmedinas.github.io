@@ -1,11 +1,31 @@
 ---
-layout: page
+layout: splash
+author_profile: true
 title: About
 permalink: /about/
 ---
 
-I'm Luis, I've been working with computers all my life. I'm currently working as PM in Infotainment Automotive Business.
+I'm Luis, i'm a Dad, Geek and more.
 
-You can find me on [Twitter](https://www.twitter.com/lmedinas).
+**Notice:** Under construction.
+{: .notice--warning}
 
+# Professional Work
 
+asdf
+
+# Tech Work
+
+asdf
+
+# Hobbies
+
+asdf
+
+## Guitar
+
+sds
+
+## Games
+
+dsd
