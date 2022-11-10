@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "This site"
-    url: https://lmedinas.github.io/
+  - title: "About me"
+    url: /about/
+  - title: "Pages"
+    url: /pages/
+  - title: "Tags"
+    url: /tags/
   - title: "Old WP Blog"
     url : https://lmedinas.wordpress.com/ 
-  - title: "About"
-    url: /about/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
