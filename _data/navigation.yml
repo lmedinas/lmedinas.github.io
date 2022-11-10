@@ -8,7 +8,7 @@ main:
     url: /tags/
   - title: "Old WP Blog"
     url : https://lmedinas.wordpress.com/ 
-
+    external: true
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

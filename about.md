@@ -3,6 +3,7 @@ layout: splash
 author_profile: true
 title: About
 permalink: /about/
+toc: true
 ---
 
 **Notice:** Under construction.
