@@ -2,6 +2,7 @@
 layout: single
 title:  "B Standard nice Metal Riffs"
 date:   2022-11-11 00:16:43 +0100
+excerpt: ""
 categories: 
     - guitar music
 tags:

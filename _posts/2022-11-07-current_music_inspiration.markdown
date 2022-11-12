@@ -2,6 +2,7 @@
 layout: single
 title:  "Current Music inspiration 07.11.2022"
 date:   2022-11-07 23:29:17 +0100
+excerpt: ""
 categories: 
     - guitar music
 tags:

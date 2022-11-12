@@ -115,26 +115,30 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://lmedinas.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lmedinas"
+      url: "https://twitter.com/lmedinas/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lmedinas"
+      url: "https://github.com/lmedinas/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/lmedinas"
+      url: "https://instagram.com/lmedinas/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lmedinas"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@NexusM"
-    
+      url: "https://mastodon.social/@NexusM"  
+  sidebar:
+    - title: "Disclaimer"
+    - text: "The opinions expressed here
+           are my own and don't not reflect
+           the position of my employer or any other party."
 
 # Site Footer
 footer:

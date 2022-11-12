@@ -24,8 +24,6 @@ So here's some of my favorite Websites:
 
 [Ecosia](https://www.ecosia.org/)
 
-
-
 ## Blogs and News
 
 [Hacker News](https://news.ycombinator.com/news)

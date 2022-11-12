@@ -11,6 +11,8 @@ main:
   - title: "Old WP Blog"
     url : https://lmedinas.wordpress.com/ 
     external: true
+  - title: "Disclaimer"
+    url: /disclaimer/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
