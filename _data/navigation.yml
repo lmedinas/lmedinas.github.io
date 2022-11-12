@@ -2,8 +2,10 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Pages"
-    url: /pages/
+  #- title: "Pages"
+  #  url: /pages/
+  - title: "New Tab"
+    url: /newtab/
   - title: "Tags"
     url: /tags/
   - title: "Old WP Blog"
